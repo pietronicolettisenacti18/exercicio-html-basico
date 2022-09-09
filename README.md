@@ -1,2 +1,2 @@
 # exercicio-html-basico
- atividade 0809
+Repositório com exercícios de html básico
